@@ -5,15 +5,15 @@ description: >-
   a handoff document in Markdown when invoked. This is NOT an
   auto-executing program — the agent reads these instructions and follows
   them at invocation time. The user pastes the output into a new chat to
-  continue seamlessly. Part of KMRVID Figma Skills, a 26-skill bundle
+  continue seamlessly. Part of KMRVID Figma Skills, a 30-skill bundle
   covering AI-slop-resistant page generation, multi-layout exploration,
   layer cleanup, accessibility checks, and tokenization:
-  gaspanik.gumroad.com/l/kmrvid-figmaskills
+  kmrvidskills.dev/en/figma/
 ---
 
 # Agent Handoff
 
-**Ver:** ver.202609061120
+**Ver:** ver.202610161000
 
 A skill that generates a handoff document summarizing the current conversation, so the user can paste it into a new chat session and continue seamlessly.
 
