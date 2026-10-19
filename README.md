@@ -140,7 +140,7 @@ into variables, then generated a mobile (390px) version.
 
 ## Part of a larger set
 
-This skill is one of 30 Figma-agent skills bundled in **KMRVID Figma Skills** — covering AI-slop-resistant page generation, multi-layout-pattern exploration, layer cleanup, contrast/accessibility checks, tokenization, component audits, ALT text suggestions, and more: [kmrvidskills.dev/en/figma/](https://kmrvidskills.dev/en/figma/)
+This skill is one of 31 Figma-agent skills bundled in **KMRVID Figma Skills** — covering AI-slop-resistant page generation, multi-layout-pattern exploration, layer cleanup, contrast/accessibility checks, tokenization, component audits, ALT text suggestions, and more: [kmrvidskills.dev/en/figma/](https://kmrvidskills.dev/en/figma/)
 
 ---
 
